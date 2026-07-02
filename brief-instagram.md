@@ -44,7 +44,7 @@ Fuente revisada: perfil público de Instagram `@clinica.beautycenter` el 2 de ju
 ## Decisiones para versión 1
 
 - Se usó el logo real del perfil como marca principal.
-- Se descargaron miniaturas públicas visibles y se guardaron en `assets/instagram`.
+- Se descargaron miniaturas públicas visibles y se guardaron dentro de la carpeta única `assets`.
 - Se creó una imagen hero con IA para evitar que la primera pantalla dependa de piezas promocionales con mucho texto.
 - Los CTAs apuntan a Instagram porque el perfil público visible no mostró teléfono oficial.
 - La página evita mostrar promociones antiguas como vigentes; se dejan como "campañas frecuentes".

@@ -8,10 +8,7 @@ Sitio web estático profesional para Beauty Center Spa.
 - `styles.css`: identidad visual y responsive.
 - `script.js`: menú móvil, animaciones y formulario de consulta.
 - `brief-instagram.md`: resumen de investigación del Instagram público.
-- `assets/brand/logo-beauty-center.jpg`: logo recuperado del perfil.
-- `assets/hero-clinic.png`: imagen hero generada para la web.
-- `assets/instagram/`: material visual público descargado desde el perfil visible.
-- `assets/services/`: imágenes renombradas para secciones de servicios.
+- `assets/`: carpeta única con logo, hero, imágenes generadas, material visual y hojas de contacto.
 
 ## Vista local
 
